@@ -6,4 +6,4 @@
 
 ## Esse projeto tem por objetivo dar dicas e estratégias para os jogos presentes nele utilizando a IA do Google, porém sendo necessário o uso de uma chave da API para poder ser executado da maneira correta o projeto.
 
-![alt text](image.png)
+![alt text](assets/image.png)
